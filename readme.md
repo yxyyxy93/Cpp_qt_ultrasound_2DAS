@@ -1,0 +1,1 @@
+This qt cpp app. needs to inherit the base class in the previous app. in the ultrasound process pipeline, i.e., Firststage_read/Ultrasonic_dataset_reader.
